@@ -1,6 +1,6 @@
 **⭐Highlight Projects:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LilithLovesYou&repo=ChargeDev)](https://github.com/LilithLovesYou/ChargeDev)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LilithLovesYou&repo=ChargeDev)](https://github.com/LilithLovesYou/DiscordBot)
 
 
 
