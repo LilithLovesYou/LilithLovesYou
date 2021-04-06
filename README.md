@@ -1,16 +1,18 @@
-### Hi there 👋
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilithLovesYou)
 
-<!--
-**LilithLovesYou/LilithLovesYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 
-Here are some ideas to get you started:
+<br>
+<details>
+  <summary>Github Public Stats :computer:</summary>
+<a href="https://github.com/LilithLovesYou?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilithLovesYou&hide=scheme&count_private=true&title_color=f92d6a&text_color=b61a48&icon_color=df0303&bg_color=0D1117" />
+</a>
+<a href="https://github.com/LilithLovesYou?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilithLovesYou&show_icons=true&line_height=33&count_private=true&title_color=f92d6a&text_color=b61a48&icon_color=df0303&bg_color=0D1117" alt="Liliths's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=LilithLovesYou)
+  ----
+</details>
