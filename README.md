@@ -1,3 +1,5 @@
+<img src="https://discord.c99.nl/widget/theme-3/246134386322309122.png">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LilithLovesYou)
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
